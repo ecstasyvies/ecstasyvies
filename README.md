@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Yviesz Flowers</h1>
-  <h3>Desenvolvedora Web — Entusiasta de JavaScript</h3>
+  <h1>Yvies</h1>
+  <h3>Desenvolvedor Web | Entusiasta de JavaScript</h3>
 
 <p>
     <img src="https://img.shields.io/badge/Codeberg-2188FF?style=for-the-badge&logo=codeberg&logoColor=white" alt="Codeberg"/>
@@ -15,11 +15,11 @@
 
 ## Sobre mim
 
-Olá! Sou **Yviesz Flowers**, do Piauí.
+Olá! Sou **Yvies**, do Piauí.
 
-Desenvolvedora Web autodidata que cria projetos quase toda semana. Minha paixão
+Desenvolvedor Web autodidata que cria projetos quase toda semana. Minha paixão
 principal é **JavaScript vanilla**. Gosto de interfaces acessíveis (seguindo
-WCAG), mobile-first e ferramentas práticas — muitas delas voltadas para a
+WCAG), mobile-first e ferramentas práticas, muitas delas voltadas para a
 comunidade LGBTQIAPN+ e para resolver problemas reais do dia a dia.
 
 Também crio jogos de vez em quando.
@@ -32,7 +32,7 @@ ferramenta.
 
 ## Tecnologias e ferramentas
 
-- **JavaScript Vanilla** — o que mais uso e amo
+- **JavaScript Vanilla**: o que mais uso e amo
 - **Web Components** + Shadow DOM
 - **HTML5** + **CSS3** moderno (animações, gradientes, responsividade)
 - **Acessibilidade** (WCAG, suporte a leitores de tela, navegação por teclado)
@@ -71,6 +71,5 @@ Veja todos →
   [multiplasidentidades.nekoweb.org](https://multiplasidentidades.nekoweb.org/)
 - **Todos os links:**
   [yviesflowers.nekoweb.org](https://yviesflowers.nekoweb.org/)
-- **Colorid.es:** [@yvies](https://colorid.es/@yvies)
 
 Me segue no Codeberg se quiser acompanhar a maioria dos projetos novos!
